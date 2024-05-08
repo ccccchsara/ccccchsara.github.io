@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "self-introduction"
-subtitle:   " \这就是所谓自我介绍吧\""
+subtitle:   " \"这就是所谓自我介绍吧"\""
 date:       2024-05-09 09:27:33
 author:     "ccccchsara"
 header-img: "img/post-bg-2015.jpg"
